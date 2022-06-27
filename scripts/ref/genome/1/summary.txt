@@ -1,0 +1,13 @@
+#Summary
+#Generated on	Mon Jun 27 12:04:43 EEST 2022
+#Version	5
+chroms	1
+bases	33156
+defined	10556
+undefined	22600
+contigs	23
+scaffolds	23
+interpad	300
+source	/scratch/project_2006053/amplicon/20220620_turku_ffgc/scripts/ref/hambi23CorrectedReference.fa
+bytes	10855
+last modified	1656318713000
